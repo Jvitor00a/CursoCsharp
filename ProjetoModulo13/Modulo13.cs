@@ -26,7 +26,7 @@ public class TrabalhandoComArquivos
         // Dessa maneira se lê e tem controle de cada linha.
         //---------- 
         var ler = new StreamReader("Cadastro.txt");
-        while (ler.EndOdStream)
+        while (ler.EndOfStream)
         {
             var linha = ler.ReadLine();
             Console.Write(linha);

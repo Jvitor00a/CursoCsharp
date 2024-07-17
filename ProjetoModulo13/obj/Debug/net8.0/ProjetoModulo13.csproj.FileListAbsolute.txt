@@ -12,3 +12,4 @@ C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0
 C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.pdb
 C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.genruntimeconfig.cache
 C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ref\ProjetoModulo13.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.sourcelink.json

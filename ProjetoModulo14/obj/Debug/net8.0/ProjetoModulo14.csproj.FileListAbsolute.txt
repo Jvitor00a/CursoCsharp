@@ -1,0 +1,15 @@
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.sourcelink.json
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\bin\Debug\net8.0\ProjetoModulo14.exe
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\bin\Debug\net8.0\ProjetoModulo14.deps.json
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\bin\Debug\net8.0\ProjetoModulo14.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\bin\Debug\net8.0\ProjetoModulo14.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\bin\Debug\net8.0\ProjetoModulo14.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\refint\ProjetoModulo14.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ProjetoModulo14.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo14\obj\Debug\net8.0\ref\ProjetoModulo14.dll
