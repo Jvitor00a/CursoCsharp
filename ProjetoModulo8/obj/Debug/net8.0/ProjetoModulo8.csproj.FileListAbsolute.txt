@@ -1,0 +1,14 @@
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\bin\Debug\net8.0\ProjetoModulo8.exe
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\bin\Debug\net8.0\ProjetoModulo8.deps.json
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\bin\Debug\net8.0\ProjetoModulo8.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\bin\Debug\net8.0\ProjetoModulo8.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\bin\Debug\net8.0\ProjetoModulo8.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ProjetoModulo8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ProjetoModulo8.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ProjetoModulo8.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ProjetoModulo8.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ProjetoModulo8.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\refint\ProjetoModulo8.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ProjetoModulo8.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ProjetoModulo8.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo8\obj\Debug\net8.0\ref\ProjetoModulo8.dll

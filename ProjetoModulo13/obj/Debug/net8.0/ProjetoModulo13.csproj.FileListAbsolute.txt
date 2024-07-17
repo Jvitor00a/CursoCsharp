@@ -1,0 +1,14 @@
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\bin\Debug\net8.0\ProjetoModulo13.exe
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\bin\Debug\net8.0\ProjetoModulo13.deps.json
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\bin\Debug\net8.0\ProjetoModulo13.runtimeconfig.json
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\bin\Debug\net8.0\ProjetoModulo13.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\bin\Debug\net8.0\ProjetoModulo13.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\refint\ProjetoModulo13.dll
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.pdb
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ProjetoModulo13.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Documentos\Curso_Csharp\ProjetoModulo13\obj\Debug\net8.0\ref\ProjetoModulo13.dll
